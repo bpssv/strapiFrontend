@@ -1,0 +1,605 @@
+{
+    "id": 1,
+    "created_by": {
+        "id": 1,
+        "firstname": "Hemant",
+        "lastname": "Kumar",
+        "username": null
+    },
+    "updated_by": {
+        "id": 1,
+        "firstname": "Hemant",
+        "lastname": "Kumar",
+        "username": null
+    },
+    "created_at": "2020-09-14T18:22:56.813Z",
+    "updated_at": "2020-09-15T12:19:16.810Z",
+    "homeVideo": [{
+        "id": 1,
+        "heading": "Your Journey Starts Here2",
+        "titleVideo": [{
+            "id": 15,
+            "name": "bps.mp4",
+            "alternativeText": "",
+            "caption": "",
+            "width": null,
+            "height": null,
+            "formats": null,
+            "hash": "bps_e6e66cd16f",
+            "ext": ".mp4",
+            "mime": "video/mp4",
+            "size": 34786.21,
+            "url": "/uploads/bps_e6e66cd16f.mp4",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "created_by": 1,
+            "updated_by": 1,
+            "created_at": "2020-09-15T08:54:20.082Z",
+            "updated_at": "2020-09-15T08:54:20.412Z"
+        }],
+        "logo": {
+            "id": 5,
+            "name": "logo.png",
+            "alternativeText": "",
+            "caption": "",
+            "width": 188,
+            "height": 116,
+            "formats": null,
+            "hash": "logo_31b78a4d06",
+            "ext": ".png",
+            "mime": "image/png",
+            "size": 7.24,
+            "url": "/uploads/logo_31b78a4d06.png",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "created_by": 1,
+            "updated_by": 1,
+            "created_at": "2020-09-14T19:21:05.403Z",
+            "updated_at": "2020-09-14T19:21:29.532Z"
+        }
+    }],
+    "Menu": [{
+            "__component": "home-page.menu",
+            "id": 1,
+            "menu_item": "About",
+            "menu_hover_description": "Bharti Public School strives to innovate and offer students educational opportunities that are unique, engaging, and relevant to life in the 21st century. Our students explore their multiple interests in a dynamic academic environment while growing within a nurturing community. 123",
+            "Submenu": [{
+                    "id": 4,
+                    "sub_menu_item": "Our mission",
+                    "menu_link": "our-mission"
+                },
+                {
+                    "id": 5,
+                    "sub_menu_item": "Explore Campus",
+                    "menu_link": "explore-campus"
+                },
+                {
+                    "id": 6,
+                    "sub_menu_item": "A rich history",
+                    "menu_link": "a-rich-history"
+                },
+                {
+                    "id": 7,
+                    "sub_menu_item": "The bps difference",
+                    "menu_link": "the-bps-difference"
+                },
+                {
+                    "id": 8,
+                    "sub_menu_item": "leadership",
+                    "menu_link": "leadership"
+                }
+            ],
+            "menu_hover_image": [{
+                "id": 14,
+                "name": "About Dropdown.jpeg",
+                "alternativeText": "",
+                "caption": "",
+                "width": 7803,
+                "height": 4388,
+                "formats": {
+                    "thumbnail": {
+                        "name": "thumbnail_About Dropdown.jpeg",
+                        "hash": "thumbnail_About_Dropdown_157233cf78",
+                        "ext": ".jpeg",
+                        "mime": "image/jpeg",
+                        "width": 245,
+                        "height": 138,
+                        "size": 12.03,
+                        "path": null,
+                        "url": "/uploads/thumbnail_About_Dropdown_157233cf78.jpeg"
+                    },
+                    "large": {
+                        "name": "large_About Dropdown.jpeg",
+                        "hash": "large_About_Dropdown_157233cf78",
+                        "ext": ".jpeg",
+                        "mime": "image/jpeg",
+                        "width": 1000,
+                        "height": 562,
+                        "size": 106.12,
+                        "path": null,
+                        "url": "/uploads/large_About_Dropdown_157233cf78.jpeg"
+                    },
+                    "medium": {
+                        "name": "medium_About Dropdown.jpeg",
+                        "hash": "medium_About_Dropdown_157233cf78",
+                        "ext": ".jpeg",
+                        "mime": "image/jpeg",
+                        "width": 750,
+                        "height": 422,
+                        "size": 69.09,
+                        "path": null,
+                        "url": "/uploads/medium_About_Dropdown_157233cf78.jpeg"
+                    },
+                    "small": {
+                        "name": "small_About Dropdown.jpeg",
+                        "hash": "small_About_Dropdown_157233cf78",
+                        "ext": ".jpeg",
+                        "mime": "image/jpeg",
+                        "width": 500,
+                        "height": 281,
+                        "size": 37.67,
+                        "path": null,
+                        "url": "/uploads/small_About_Dropdown_157233cf78.jpeg"
+                    }
+                },
+                "hash": "About_Dropdown_157233cf78",
+                "ext": ".jpeg",
+                "mime": "image/jpeg",
+                "size": 2521.44,
+                "url": "/uploads/About_Dropdown_157233cf78.jpeg",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "created_by": 1,
+                "updated_by": 1,
+                "created_at": "2020-09-15T08:52:56.798Z",
+                "updated_at": "2020-09-15T08:52:57.018Z"
+            }]
+        },
+        {
+            "__component": "home-page.menu",
+            "id": 53,
+            "menu_item": "ADMISSIONS",
+            "menu_hover_description": "Learn more about Bharti Public School’s admissions process, find answers to commonly asked questions about the school and submit your application online\n",
+            "Submenu": [{
+                    "id": 29,
+                    "sub_menu_item": "Admission FAQ",
+                    "menu_link": null
+                },
+                {
+                    "id": 30,
+                    "sub_menu_item": "Apply Now!",
+                    "menu_link": null
+                },
+                {
+                    "id": 31,
+                    "sub_menu_item": "Tuition Fees",
+                    "menu_link": null
+                },
+                {
+                    "id": 32,
+                    "sub_menu_item": "Forms & Certificates",
+                    "menu_link": null
+                }
+            ],
+            "menu_hover_image": [{
+                "id": 8,
+                "name": "Admissions Dropdown.JPG",
+                "alternativeText": "",
+                "caption": "",
+                "width": 690,
+                "height": 460,
+                "formats": {
+                    "thumbnail": {
+                        "name": "thumbnail_Admissions Dropdown.JPG",
+                        "hash": "thumbnail_Admissions_Dropdown_fb888810bb",
+                        "ext": ".JPG",
+                        "mime": "image/jpeg",
+                        "width": 234,
+                        "height": 156,
+                        "size": 11.35,
+                        "path": null,
+                        "url": "/uploads/thumbnail_Admissions_Dropdown_fb888810bb.JPG"
+                    },
+                    "small": {
+                        "name": "small_Admissions Dropdown.JPG",
+                        "hash": "small_Admissions_Dropdown_fb888810bb",
+                        "ext": ".JPG",
+                        "mime": "image/jpeg",
+                        "width": 500,
+                        "height": 333,
+                        "size": 36.43,
+                        "path": null,
+                        "url": "/uploads/small_Admissions_Dropdown_fb888810bb.JPG"
+                    }
+                },
+                "hash": "Admissions_Dropdown_fb888810bb",
+                "ext": ".JPG",
+                "mime": "image/jpeg",
+                "size": 60.02,
+                "url": "/uploads/Admissions_Dropdown_fb888810bb.JPG",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "created_by": 1,
+                "updated_by": 1,
+                "created_at": "2020-09-15T07:02:47.967Z",
+                "updated_at": "2020-09-15T07:02:50.317Z"
+            }]
+        },
+        {
+            "__component": "home-page.menu",
+            "id": 54,
+            "menu_item": "ACADEMICS",
+            "menu_hover_description": "At the heart of Bharti Public School’s philosophy is the belief that education must engage more than the mind alone. A BPS education is comprehensive, rigorous and complemented by opportunities to participate in a wide range of extra-curricular activities that foster growth and development.",
+            "Submenu": [{
+                    "id": 13,
+                    "sub_menu_item": "Common Page",
+                    "menu_link": null
+                },
+                {
+                    "id": 21,
+                    "sub_menu_item": "Lower School",
+                    "menu_link": null
+                },
+                {
+                    "id": 22,
+                    "sub_menu_item": "Middle School",
+                    "menu_link": null
+                },
+                {
+                    "id": 14,
+                    "sub_menu_item": "Upper School",
+                    "menu_link": null
+                },
+                {
+                    "id": 15,
+                    "sub_menu_item": "Student Resources",
+                    "menu_link": null
+                }
+            ],
+            "menu_hover_image": [{
+                "id": 16,
+                "name": "Academics dropdown.jpg",
+                "alternativeText": "",
+                "caption": "",
+                "width": 5472,
+                "height": 3648,
+                "formats": {
+                    "thumbnail": {
+                        "name": "thumbnail_Academics dropdown.jpg",
+                        "hash": "thumbnail_Academics_dropdown_4ed9f65102",
+                        "ext": ".jpg",
+                        "mime": "image/jpeg",
+                        "width": 234,
+                        "height": 156,
+                        "size": 7.3,
+                        "path": null,
+                        "url": "/uploads/thumbnail_Academics_dropdown_4ed9f65102.jpg"
+                    },
+                    "large": {
+                        "name": "large_Academics dropdown.jpg",
+                        "hash": "large_Academics_dropdown_4ed9f65102",
+                        "ext": ".jpg",
+                        "mime": "image/jpeg",
+                        "width": 1000,
+                        "height": 667,
+                        "size": 57.42,
+                        "path": null,
+                        "url": "/uploads/large_Academics_dropdown_4ed9f65102.jpg"
+                    },
+                    "medium": {
+                        "name": "medium_Academics dropdown.jpg",
+                        "hash": "medium_Academics_dropdown_4ed9f65102",
+                        "ext": ".jpg",
+                        "mime": "image/jpeg",
+                        "width": 750,
+                        "height": 500,
+                        "size": 37.98,
+                        "path": null,
+                        "url": "/uploads/medium_Academics_dropdown_4ed9f65102.jpg"
+                    },
+                    "small": {
+                        "name": "small_Academics dropdown.jpg",
+                        "hash": "small_Academics_dropdown_4ed9f65102",
+                        "ext": ".jpg",
+                        "mime": "image/jpeg",
+                        "width": 500,
+                        "height": 333,
+                        "size": 21.19,
+                        "path": null,
+                        "url": "/uploads/small_Academics_dropdown_4ed9f65102.jpg"
+                    }
+                },
+                "hash": "Academics_dropdown_4ed9f65102",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "size": 1277.31,
+                "url": "/uploads/Academics_dropdown_4ed9f65102.jpg",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "created_by": 1,
+                "updated_by": 1,
+                "created_at": "2020-09-15T09:54:39.837Z",
+                "updated_at": "2020-09-15T09:54:39.937Z"
+            }]
+        },
+        {
+            "__component": "home-page.menu",
+            "id": 55,
+            "menu_item": "LIFE AT BPS",
+            "menu_hover_description": "Bharti Public School creates an atmosphere of innovation and creativity which, by design, always be front and center. The pursuit and implementation of new ideas has been a hallmark of the school for more than four decades, resulting in a relentless search for new and better ideas that have made Bharti Public School into an epitome of academic progress.",
+            "Submenu": [{
+                    "id": 16,
+                    "sub_menu_item": "Common Page",
+                    "menu_link": null
+                },
+                {
+                    "id": 17,
+                    "sub_menu_item": "Athletics",
+                    "menu_link": null
+                },
+                {
+                    "id": 18,
+                    "sub_menu_item": "Creative Arts",
+                    "menu_link": null
+                },
+                {
+                    "id": 19,
+                    "sub_menu_item": "Community Outreach",
+                    "menu_link": null
+                },
+                {
+                    "id": 20,
+                    "sub_menu_item": " Outdoor Education",
+                    "menu_link": null
+                }
+            ],
+            "menu_hover_image": [{
+                "id": 12,
+                "name": "life at BPS_dropdown.JPG",
+                "alternativeText": "",
+                "caption": "",
+                "width": 5184,
+                "height": 3378,
+                "formats": {
+                    "thumbnail": {
+                        "name": "thumbnail_life at BPS_dropdown.JPG",
+                        "hash": "thumbnail_life_at_BPS_dropdown_5919daea69",
+                        "ext": ".JPG",
+                        "mime": "image/jpeg",
+                        "width": 239,
+                        "height": 156,
+                        "size": 11.83,
+                        "path": null,
+                        "url": "/uploads/thumbnail_life_at_BPS_dropdown_5919daea69.JPG"
+                    },
+                    "large": {
+                        "name": "large_life at BPS_dropdown.JPG",
+                        "hash": "large_life_at_BPS_dropdown_5919daea69",
+                        "ext": ".JPG",
+                        "mime": "image/jpeg",
+                        "width": 1000,
+                        "height": 652,
+                        "size": 133.05,
+                        "path": null,
+                        "url": "/uploads/large_life_at_BPS_dropdown_5919daea69.JPG"
+                    },
+                    "medium": {
+                        "name": "medium_life at BPS_dropdown.JPG",
+                        "hash": "medium_life_at_BPS_dropdown_5919daea69",
+                        "ext": ".JPG",
+                        "mime": "image/jpeg",
+                        "width": 750,
+                        "height": 489,
+                        "size": 83.45,
+                        "path": null,
+                        "url": "/uploads/medium_life_at_BPS_dropdown_5919daea69.JPG"
+                    },
+                    "small": {
+                        "name": "small_life at BPS_dropdown.JPG",
+                        "hash": "small_life_at_BPS_dropdown_5919daea69",
+                        "ext": ".JPG",
+                        "mime": "image/jpeg",
+                        "width": 500,
+                        "height": 326,
+                        "size": 41.28,
+                        "path": null,
+                        "url": "/uploads/small_life_at_BPS_dropdown_5919daea69.JPG"
+                    }
+                },
+                "hash": "life_at_BPS_dropdown_5919daea69",
+                "ext": ".JPG",
+                "mime": "image/jpeg",
+                "size": 1763.87,
+                "url": "/uploads/life_at_BPS_dropdown_5919daea69.JPG",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "created_by": 1,
+                "updated_by": 1,
+                "created_at": "2020-09-15T07:02:54.955Z",
+                "updated_at": "2020-09-15T07:02:55.186Z"
+            }]
+        },
+        {
+            "__component": "home-page.menu",
+            "id": 56,
+            "menu_item": "COMMUNITY",
+            "menu_hover_description": "The Bharti Public School community, better known as Bharti Parivaar spells growth, impetus and success for the school and its fraternity including our faculty, staff, students, and alumni members.",
+            "Submenu": [{
+                    "id": 23,
+                    "sub_menu_item": "Faculty+",
+                    "menu_link": null
+                },
+                {
+                    "id": 24,
+                    "sub_menu_item": "Parents+",
+                    "menu_link": null
+                },
+                {
+                    "id": 25,
+                    "sub_menu_item": "Students+",
+                    "menu_link": null
+                },
+                {
+                    "id": 26,
+                    "sub_menu_item": "Alumni",
+                    "menu_link": null
+                }
+            ],
+            "menu_hover_image": [{
+                "id": 9,
+                "name": "Community dropdown.JPG",
+                "alternativeText": "",
+                "caption": "",
+                "width": 1914,
+                "height": 1221,
+                "formats": {
+                    "thumbnail": {
+                        "name": "thumbnail_Community dropdown.JPG",
+                        "hash": "thumbnail_Community_dropdown_4e7bde71fe",
+                        "ext": ".JPG",
+                        "mime": "image/jpeg",
+                        "width": 245,
+                        "height": 156,
+                        "size": 16.3,
+                        "path": null,
+                        "url": "/uploads/thumbnail_Community_dropdown_4e7bde71fe.JPG"
+                    },
+                    "large": {
+                        "name": "large_Community dropdown.JPG",
+                        "hash": "large_Community_dropdown_4e7bde71fe",
+                        "ext": ".JPG",
+                        "mime": "image/jpeg",
+                        "width": 1000,
+                        "height": 638,
+                        "size": 164.12,
+                        "path": null,
+                        "url": "/uploads/large_Community_dropdown_4e7bde71fe.JPG"
+                    },
+                    "medium": {
+                        "name": "medium_Community dropdown.JPG",
+                        "hash": "medium_Community_dropdown_4e7bde71fe",
+                        "ext": ".JPG",
+                        "mime": "image/jpeg",
+                        "width": 750,
+                        "height": 478,
+                        "size": 101.15,
+                        "path": null,
+                        "url": "/uploads/medium_Community_dropdown_4e7bde71fe.JPG"
+                    },
+                    "small": {
+                        "name": "small_Community dropdown.JPG",
+                        "hash": "small_Community_dropdown_4e7bde71fe",
+                        "ext": ".JPG",
+                        "mime": "image/jpeg",
+                        "width": 500,
+                        "height": 319,
+                        "size": 53.27,
+                        "path": null,
+                        "url": "/uploads/small_Community_dropdown_4e7bde71fe.JPG"
+                    }
+                },
+                "hash": "Community_dropdown_4e7bde71fe",
+                "ext": ".JPG",
+                "mime": "image/jpeg",
+                "size": 407.96,
+                "url": "/uploads/Community_dropdown_4e7bde71fe.JPG",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "created_by": 1,
+                "updated_by": 1,
+                "created_at": "2020-09-15T07:02:49.540Z",
+                "updated_at": "2020-09-15T07:02:50.602Z"
+            }]
+        },
+        {
+            "__component": "home-page.menu",
+            "id": 57,
+            "menu_item": "CONTACT",
+            "menu_hover_description": "In case of any questions or concerns, you may contact the school and get your queries answered. The school is consistently engaged in numerous activities and workshops, updates of which can be found on social media",
+            "Submenu": [{
+                    "id": 27,
+                    "sub_menu_item": "Contact",
+                    "menu_link": null
+                },
+                {
+                    "id": 28,
+                    "sub_menu_item": "Employment",
+                    "menu_link": null
+                }
+            ],
+            "menu_hover_image": [{
+                "id": 10,
+                "name": "Contact Dropdown.JPG",
+                "alternativeText": "",
+                "caption": "",
+                "width": 5184,
+                "height": 2598,
+                "formats": {
+                    "thumbnail": {
+                        "name": "thumbnail_Contact Dropdown.JPG",
+                        "hash": "thumbnail_Contact_Dropdown_96d8e6a17f",
+                        "ext": ".JPG",
+                        "mime": "image/jpeg",
+                        "width": 245,
+                        "height": 123,
+                        "size": 11.4,
+                        "path": null,
+                        "url": "/uploads/thumbnail_Contact_Dropdown_96d8e6a17f.JPG"
+                    },
+                    "large": {
+                        "name": "large_Contact Dropdown.JPG",
+                        "hash": "large_Contact_Dropdown_96d8e6a17f",
+                        "ext": ".JPG",
+                        "mime": "image/jpeg",
+                        "width": 1000,
+                        "height": 501,
+                        "size": 93.81,
+                        "path": null,
+                        "url": "/uploads/large_Contact_Dropdown_96d8e6a17f.JPG"
+                    },
+                    "medium": {
+                        "name": "medium_Contact Dropdown.JPG",
+                        "hash": "medium_Contact_Dropdown_96d8e6a17f",
+                        "ext": ".JPG",
+                        "mime": "image/jpeg",
+                        "width": 750,
+                        "height": 376,
+                        "size": 60.91,
+                        "path": null,
+                        "url": "/uploads/medium_Contact_Dropdown_96d8e6a17f.JPG"
+                    },
+                    "small": {
+                        "name": "small_Contact Dropdown.JPG",
+                        "hash": "small_Contact_Dropdown_96d8e6a17f",
+                        "ext": ".JPG",
+                        "mime": "image/jpeg",
+                        "width": 500,
+                        "height": 251,
+                        "size": 32.94,
+                        "path": null,
+                        "url": "/uploads/small_Contact_Dropdown_96d8e6a17f.JPG"
+                    }
+                },
+                "hash": "Contact_Dropdown_96d8e6a17f",
+                "ext": ".JPG",
+                "mime": "image/jpeg",
+                "size": 981.96,
+                "url": "/uploads/Contact_Dropdown_96d8e6a17f.JPG",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "created_by": 1,
+                "updated_by": 1,
+                "created_at": "2020-09-15T07:02:50.771Z",
+                "updated_at": "2020-09-15T07:02:51.836Z"
+            }]
+        }
+    ]
+}
